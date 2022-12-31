@@ -1,1 +1,1 @@
-# wildsy-io
+# wildsy.io
